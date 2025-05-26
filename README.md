@@ -1,7 +1,7 @@
 ### 1. PostgreSQL
 
 PostgreSQL একটি শক্তিশালী, ওপেন সোর্স রিলেশনাল ডেটাবেস ম্যানেজমেন্ট সিস্টেম (RDBMS), যা মূলত SQL এবং কিছু object-oriented বৈশিষ্ট্য সমর্থন করে। এটি ACID-compliant, অর্থাৎ এটি Atomicity, Consistency, Isolation, এবং Durability নিশ্চিত করে, যাতে ডেটা নিরাপদ এবং নির্ভরযোগ্য থাকে।
-PostgreSQL খুবই স্কেলযোগ্য, এবং এতে রয়েছে stored procedures, triggers, views, এবং complex queries ব্যবহারের সুবিধা। এটি ডেভেলপারদের enterprise-level অ্যাপ্লিকেশন বানাতে সাহায্য করে এবং JSON, XML এর মত ডেটা ফর্ম্যাটও সাপোর্ট করে।
+PostgreSQL খুবই স্কেলযোগ্য, এবং এতে রয়েছে stored procedures, triggers, views, এবং complex queries ব্যবহারের সুবিধা।
 
 উদাহরণ:
 CREATE TABLE students (
